@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\bin\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\bin\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\bin\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\bin\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\bin\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\bin\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\obj\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\obj\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\obj\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\obj\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\obj\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\obj\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Conversao-Idade-em-Meses\obj\Debug\netcoreapp3.1\Conversao-Idade-em-Meses.genruntimeconfig.cache
